@@ -1,0 +1,6 @@
+RENCANA BELAJAR
+- JavaScript
+  * ES6
+  * Frameworks
+- React
+- PHP Frameworks
